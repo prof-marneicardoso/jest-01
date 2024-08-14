@@ -48,7 +48,7 @@ npm i --save-dev jest supertest
 
 ### #2. Crie o arquivo 'jest.config.js' na raiz do projeto.
 
-![img01](https://raw.githubusercontent.com/prof-marneicardoso/assets/main/img/001.png?token=GHSAT0AAAAAACVQDP5SQWIMT7LSU7HH7EO6ZV4D5QQ)
+![001.png](https://i.postimg.cc/26jBcr7n/001.png)
 
 Adicione o código:
 
@@ -193,7 +193,7 @@ describe('Product Model', () => {
 "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
 ```
 
-![img02](https://raw.githubusercontent.com/prof-marneicardoso/assets/main/img/002.png?token=GHSAT0AAAAAACVQDP5TPV2657OC2WEHSGOEZV4D6DA)
+![002.png](https://i.postimg.cc/7h8nZfv0/002.png)
 
 
 ### #7. Abra o Terminal e rode o projeto no modo teste:
